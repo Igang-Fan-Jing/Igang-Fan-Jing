@@ -16,28 +16,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)](https://star-history.com/#Igang-Fan-Jing/HDIP-YOLO&Date)
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-hi, i'm ghostwritten, a passionate self-taught Cloud-Native developer and a freelance software engineer from China. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-
-Currently working on [BSG](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px"> associated projects at [kubernetes](https://kubernetes.io/). Read [my blog](https://smoothies.com.cn/) or follow my WeChat public account：爱死亡机器人.
-
-or you can follow my Twitter and Github:
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/cnghostwritten?style=social)](https://twitter.com/cnghostwritten)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Ghostwritten?label=follow&style=social)](https://github.com/Ghostwritten)
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<p align="left"> 
-  Visitor count:<br>
-  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/count.svg"  />
-</p>
-
-
-
-
 ### Platform & Tools
 
 [![](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
