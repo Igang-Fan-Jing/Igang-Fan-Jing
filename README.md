@@ -9,7 +9,7 @@
 
 ## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)]
+![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)
 
 <p align="left"> Github Profile Trophy:
 	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Igang-Fan-Jing&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Igang-Fan-Jing"  /></a> </p>
