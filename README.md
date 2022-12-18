@@ -7,6 +7,9 @@
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Igang-Fan-Jing&theme=dark" alt="Igang-Fan-Jing" width=50% /></span>
 
 
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)](https://star-history.com/#Igang-Fan-Jing/HDIP-YOLO&Date)
 
 <p align="left"> Github Profile Trophy:
 	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Igang-Fan-Jing&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Igang-Fan-Jing"  /></a> </p>
@@ -30,7 +33,3 @@ markdown      40 mins       ▒░░░░░░░░░░░░░░░░�
 - 🍬 Looking forward to settling down in the mountains.
 - 🥩 Expect every day to be a crazy Thursday, but want to have a healthy life.
 
-
-## Star History
-
-![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)](https://star-history.com/#Igang-Fan-Jing/HDIP-YOLO&Date)
