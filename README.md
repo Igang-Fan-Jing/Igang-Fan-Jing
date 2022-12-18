@@ -2,6 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Igang-Fan-Jing&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igang-Fan-Jing&layout=compact&theme=vue-dark)
+[![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)](https://star-history.com/#Igang-Fan-Jing/HDIP-YOLO&Date)
 
 
 ### Hi there 👋
