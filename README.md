@@ -46,7 +46,7 @@
 
 
 <span><img src="https://github-readme-stats.vercel.app/api?username=Igang-Fan-Jing&show_icons=true&theme=dark&hide_border=false" alt="Igang-Fan-Jing" width=50% /></span>
-<a href="https://app.daily.dev/ghostwritten" ><img src="https://api.daily.dev/devcards/cdfc7a689b9c4fa7b9dfa529683fe998.png?r=n7h" width="180" height="200" alt="BlackSwanGreen's Dev Card"/></a>
+<a href="https://app.daily.dev/ghostwritten" >
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Igang-Fan-Jing&theme=dark" alt="Igang-Fan-Jing" width=50% /></span>
 
 
