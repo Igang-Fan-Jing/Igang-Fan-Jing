@@ -36,4 +36,4 @@ markdown      40 mins       ▒░░░░░░░░░░░░░░░░�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)](https://star-history.com/#Igang-Fan-Jing/HDIP-YOLO&Date)]
+![Star History Chart](https://api.star-history.com/svg?repos=Igang-Fan-Jing/HDIP-YOLO&type=Date)](https://star-history.com/#Igang-Fan-Jing/HDIP-YOLO&Date)
