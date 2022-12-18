@@ -13,7 +13,6 @@
 
 <table><tr><td valign="top">
 
-#### :bar_chart: Weekly development breakdown
 
 <!--START_SECTION:ghostwritten-->
 ```text
@@ -23,8 +22,7 @@ go          13 hr 36 mins   ██░░░░░░░░░░░░░░░�
 lua            7 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 markdown      40 mins       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
  
-#### :sparkles: My day-to-day followers
-### Hi there 👋
+
 - 🔭 I’m currently Studying on Jiangxi University of Finance and Economics.
 - 🌱 I’m currently learning Target detection and Domain adaptation.
 - 👯 I am looking forward to getting an internship.
