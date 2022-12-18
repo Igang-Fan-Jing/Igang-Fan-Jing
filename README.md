@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Igang-Fan-Jing&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igang-Fan-Jing&layout=compact&theme=vue-dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Igang-Fan-Jing&theme=dark&layout=compact)
 <a href="https://app.daily.dev/ghostwritten" >
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Igang-Fan-Jing&theme=dark" alt="Igang-Fan-Jing" width=50% /></span>
 
