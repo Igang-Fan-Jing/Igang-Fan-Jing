@@ -14,7 +14,7 @@
 	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Igang-Fan-Jing&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Igang-Fan-Jing"  /></a> </p>
 
 <table><tr><td valign="top">
-
+![](https://activity-graph.herokuapp.com/graph?username=Igang-Fan-Jing&theme=github)
 
 ### Platform & Tools
 
