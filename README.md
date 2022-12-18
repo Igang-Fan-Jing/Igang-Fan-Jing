@@ -45,14 +45,14 @@
 
 
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Igang-Fan-Jing" width=50% /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=Igang-Fan-Jing&show_icons=true&theme=dark&hide_border=false" alt="Igang-Fan-Jing" width=50% /></span>
 <a href="https://app.daily.dev/ghostwritten" ><img src="https://api.daily.dev/devcards/cdfc7a689b9c4fa7b9dfa529683fe998.png?r=n7h" width="180" height="200" alt="BlackSwanGreen's Dev Card"/></a>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=dark" alt="Igang-Fan-Jing" width=50% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Igang-Fan-Jing&theme=dark" alt="Igang-Fan-Jing" width=50% /></span>
 
 
 
 <p align="left"> Github Profile Trophy:
-	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Igang-Fan-Jing"  /></a> </p>
+	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Igang-Fan-Jing&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Igang-Fan-Jing"  /></a> </p>
 
 <table><tr><td valign="top">
 
