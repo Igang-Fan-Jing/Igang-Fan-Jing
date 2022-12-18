@@ -1,5 +1,4 @@
 # README
-# Hi 🎉 Welcome to YuYueSummer's Github Homepage!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Igang-Fan-Jing&theme=vue-dark)
