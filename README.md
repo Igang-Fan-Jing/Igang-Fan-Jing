@@ -1,6 +1,6 @@
 # README
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Igang-Fan-Jing&theme=vue-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Igang-Fan-Jing&theme=dark&layout=compact)
 <a href="https://app.daily.dev/ghostwritten" >
