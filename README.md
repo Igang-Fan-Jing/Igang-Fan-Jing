@@ -33,3 +33,31 @@ markdown      40 mins       ▒░░░░░░░░░░░░░░░░�
 - 🍬 Looking forward to settling down in the mountains.
 - 🥩 Expect every day to be a crazy Thursday, but want to have a healthy life.
 
+
+### Platform & Tools
+
+[![](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/Browser-FireFox-4285f4?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
+[![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
+[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+
+### Code & Skills
+
+[![](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=ffffff)](https://www.wireguard.com/)
+[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=ffffff)](https://podman.io/)
+[![](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=ffffff)](https://prometheus.io/)
+[![](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)](https://grafana.com/)
+[![](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=ffffff)](https://goharbor.io/)
+[![](https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=ffffff)](https://www.consul.io/)
+[![](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=ffffff)](https://gohugo.io/)
+[![](https://img.shields.io/badge/-jekyll-FFA500?style=flat-square&logo=jekyll&logoColor=ffffff)](https://jekyllrb.com/)
+[![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
+
